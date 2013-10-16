@@ -7,13 +7,13 @@ See http://uptimesoftware.github.io for more information.
 
 ### Category
 
-{ page.category }}
+plugin
 
 ### Version Compatibility
 
 
   
-    * Custom GlobalScan Threshold Manager 1.0 - 6.0, 5.5, 5.4, 5.3, 5.2
+* Custom GlobalScan Threshold Manager 1.0 - 6.0, 5.5, 5.4, 5.3, 5.2
   
 
 
@@ -44,5 +44,6 @@ None; no agent required
 
 
 ### Languages Used
+
 * PHP
 
